@@ -1,8 +1,14 @@
-# Object-Oriented-Programming
-Object Oriented Programming Features with Java 
+# Object Oriented Programming Features with Java 
 
 
-Basic Object Oriented Programming Class Contents
+
+### Basic Object Oriented Programming Class Contents
+
+
+
+<hr>
+
+
 
 Lesson 1 : Arrays - Constructors - Reference and Objects                
 Lesson 2 : CircleTest - Encapsulation                 
